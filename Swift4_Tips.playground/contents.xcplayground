@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='将协议方法声明为mutating'/>
+        <page name='柯里化'/>
+        <page name='序列'/>
+        <page name='多元组'/>
+        <page name='@autoclosure和??'/>
+        <page name='@escaping'/>
+        <page name='可选链'/>
+        <page name='操作符'/>
+        <page name='func 的参数修饰'/>
+        <page name='字面量表达'/>
+        <page name='下标'/>
+        <page name='命名空间'/>
+        <page name='typealias'/>
+        <page name='associatedtype'/>
+        <page name='可变参数函数'/>
+    </pages>
+</playground>
