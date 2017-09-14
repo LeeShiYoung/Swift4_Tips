@@ -16,5 +16,11 @@
         <page name='typealias'/>
         <page name='associatedtype'/>
         <page name='可变参数函数'/>
+        <page name='初始化方法顺序'/>
+        <page name='Static和Class'/>
+        <page name='多类型和容器'/>
+        <page name='正则表达式'/>
+        <page name='范围区间操作符'/>
+        <page name='协议和类方法中的Self'/>
     </pages>
 </playground>
