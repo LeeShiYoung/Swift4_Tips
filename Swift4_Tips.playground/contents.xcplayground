@@ -27,5 +27,6 @@
         <page name='Lazy'/>
         <page name='optional'/>
         <page name='协议扩展'/>
+        <page name='where和模式匹配'/>
     </pages>
 </playground>
