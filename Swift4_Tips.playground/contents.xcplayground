@@ -28,5 +28,7 @@
         <page name='optional'/>
         <page name='协议扩展'/>
         <page name='where和模式匹配'/>
+        <page name='实例方法的动态调用'/>
+        <page name='单例'/>
     </pages>
 </playground>
