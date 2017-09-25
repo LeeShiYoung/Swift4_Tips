@@ -32,5 +32,6 @@
         <page name='单例'/>
         <page name='内存管理'/>
         <page name='GCD和延时调用'/>
+        <page name='KeyPath'/>
     </pages>
 </playground>
