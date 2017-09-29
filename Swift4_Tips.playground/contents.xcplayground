@@ -33,5 +33,9 @@
         <page name='内存管理'/>
         <page name='GCD和延时调用'/>
         <page name='KeyPath'/>
+        <page name='Options'/>
+        <page name='数组enumerate'/>
+        <page name='AssociatedObject'/>
+        <page name='Lock'/>
     </pages>
 </playground>
