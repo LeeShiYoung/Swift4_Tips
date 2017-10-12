@@ -37,5 +37,6 @@
         <page name='数组enumerate'/>
         <page name='AssociatedObject'/>
         <page name='Lock'/>
+        <page name='Print'/>
     </pages>
 </playground>
