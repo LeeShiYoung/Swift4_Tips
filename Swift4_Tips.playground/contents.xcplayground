@@ -38,5 +38,6 @@
         <page name='AssociatedObject'/>
         <page name='Lock'/>
         <page name='Print'/>
+        <page name='异常处理'/>
     </pages>
 </playground>
