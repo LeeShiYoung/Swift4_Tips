@@ -39,5 +39,10 @@
         <page name='Lock'/>
         <page name='Print'/>
         <page name='异常处理'/>
+        <page name='PlayGround'/>
+        <page name='UI'/>
+        <page name='JSON和Codable'/>
+        <page name='泛型扩展'/>
+        <page name='列举enum类型'/>
     </pages>
 </playground>
